@@ -1,0 +1,23 @@
+# Fdb version 3
+["pdflatex"] 1622695399 "/home/chicken1925/competitive/hoge.tex" "hoge.pdf" "hoge" 1622695399
+  "/home/chicken1925/competitive/hoge.tex" 1622695399 95 aac46c0c85333d09581d467fd556b8fd ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1523134290 2211 ca7ce284ab93c8eecdc6029dc5ccbd73 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty" 1523134290 4161 7f6eb9092061a11f87d08ed13515b48d ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty" 1601675358 87353 2c21ff5f2e32e1bf714e600924d810db ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty" 1523134290 4116 32e6abd27229755a83a8b7f18e583890 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty" 1523134290 2432 8ff93b1137020e8f21930562a874ae66 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1620418576 27177 c0f5f128013bde6670e188c4af243210 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1602274849 60810 4554ddf6e0b4ed9f3f486c72558ba459 ""
+  "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1621028613 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
+  "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1622693006 5185786 b713391d0ffa14a0a321ff3ebc856ef0 ""
+  "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1622693021 2810836 7103bc05c1d25b62f1ee0fddb563a300 ""
+  "/usr/local/texlive/2021/texmf.cnf" 1622693002 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "hoge.aux" 1622695399 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "hoge.tex" 1622695399 95 aac46c0c85333d09581d467fd556b8fd ""
+  (generated)
+  "hoge.log"
+  "hoge.aux"
+  "hoge.pdf"
